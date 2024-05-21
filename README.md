@@ -2,4 +2,4 @@
 <img src="pizza-menu/public/pizza_menu.png">
 
 <h2>Steps Component</h2>
-<img src="steps/public/steps_component.png">
+<img src="steps/public/steps_component.png" align="center">
