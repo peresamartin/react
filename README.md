@@ -2,4 +2,7 @@
 <img src="pizza-menu/public/pizza_menu.png">
 
 <h2>Steps Component</h2>
-<img src="steps/public/steps_component.png" align="center">
+<img src="steps/public/steps_component.png" displa= block
+  margin-left= auto
+  margin-right= auto
+  width= 50%>
